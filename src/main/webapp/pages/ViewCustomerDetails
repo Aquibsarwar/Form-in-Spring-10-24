@@ -1,0 +1,8 @@
+<form action="addCustomers">
+  <fieldset>
+    <h1>View details</h1>
+    ${cname}
+    ${cid}
+    ${cemail}
+  </fieldset>
+</form>
